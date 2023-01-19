@@ -52,7 +52,8 @@ obtido no passo anterior:
 curl -X "GET"
 "https://api.spotify.com/v1/search?q=nome_artista&type=artist" -H
 "Accept: application/json" -H "Content-Type: application/json" -H
-"Authorization: Bearer meu_OAuthToken"
+"Authorization: Bearer meu_OAuthToken" 
+``
 
 ## 2ºPasso: Conexão
 
