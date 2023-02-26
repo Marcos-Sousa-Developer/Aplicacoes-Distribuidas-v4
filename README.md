@@ -28,7 +28,7 @@ disponiblizados pelo servidor de recursos do Spotify. Para este efeito, o URI de
 A aplicação Flask deverá incluir três novos recursos (/login, /callback e /profile, para que o utilizador possa dar autorização através do navegador à aplicação para aceder a recursos protegidos antes de iniciar a interação com os outros recursos implementados no Projeto 3. <br>
 O recurso protegido que será acedido pelo recurso /profile será o perfil do utilizador no Spotify (i.e., https://api.spotify.com/v1/me). 
 
-# Passos
+# Instruções
 
 ## 1ºPasso: Autenticação 
 
