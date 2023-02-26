@@ -60,11 +60,13 @@ curl -X "GET"
 #### **Run these two on different terminals** 
 
 ```bash
+python3 server/servidor.py
+```
+
+```bash
 python3 client/cliente.py 
 ```
-```bash
-python3 python3 server/servidor.py
-```
+
 <hr> 
 
 # Instruções (In the client.py terminal)
